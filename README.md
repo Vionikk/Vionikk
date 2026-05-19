@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vionikk
-- 👀 I’m interested in C#(.Net), Python(OpenCV, TelegramAPI, Django), C/C++, Swift(SwiftUI)/Objective-C, tourism, astronomy and astrophotography)
-- 🌱 I’m currently learning Assembly Language, C# and Python(Django)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C#(.Net), Python(TelegramAPI, Django), C/C++, Swift(SwiftUI)
+- 🌱 I’m currently learning Assembly Language and C (BareMetal)
 
 <!---
 Vionikk/Vionikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
